@@ -63,5 +63,7 @@
     <extension name='basefulfilmentprocess' />
     <extension name='basebackoffice' />
 
+    <extension name='hmc' />
+    <extension name='platformhmc' />
   </extensions>
 </hybrisconfig>
