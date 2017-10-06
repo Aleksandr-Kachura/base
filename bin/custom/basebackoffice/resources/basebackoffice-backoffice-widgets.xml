@@ -20,4 +20,10 @@
         </widget>
     </widget-extension>
 
+    <widget-extension widgetId="hmc2list">
+        <setting key="multiSelect" value="TRUE" type="Boolean" />
+    </widget-extension>
+
+
+
 </widgets>
