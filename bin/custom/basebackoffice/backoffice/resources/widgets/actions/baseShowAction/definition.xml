@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<action-definition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                   id="de.hybris.actions.baseshowaction"
+                   xsi:noNamespaceSchemaLocation="http://www.hybris.com/schema/cockpitng/action-definition.xsd">
+    <name>BaseShow</name>
+    <description>
+        Base Show
+    </description>
+    <author>Alex Kachura</author>
+    <version>1.0</version>
+    <actionClassName>de.hybris.actions.BaseShowAction</actionClassName>
+    <inputType>java.util.Set</inputType>
+    <iconUri>icons/icon_action_edit_def.png</iconUri>
+    <iconDisabledUri>icons/icon_action_edit_def.png</iconDisabledUri>
+    <iconHoverUri>icons/icon_action_edit_def.png</iconHoverUri>
+</action-definition>
